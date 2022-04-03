@@ -21,3 +21,15 @@
   color: white;
   font-weight: 600;
 }
+
+.badge3 {
+  background-color: tomato;
+  width: 8px;
+  height: 8px;
+  border-radius: 15px; /*사각형을 원으로 만들고 싶다면 width의 절반만큼 설정*/
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-weight: 600;
+}
